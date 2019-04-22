@@ -1,0 +1,13 @@
+*.iml
+/TapiaSdkSample/.gitignore
+/TapiaSdkSample/.gradle
+/TapiaSdkSample/local.properties
+/TapiaSdkSample/.idea/workspace.xml
+/TapiaSdkSample/.idea/libraries
+/TapiaSdkSample/.DS_Store
+/TapiaSdkSample/build
+/TapiaSdkSample/captures
+/TapiaSdkSample/.externalNativeBuild
+/TapiaSdkSample/app/src/main//res/raw/sdk_license.txt
+/TapiaSdkSample/app/src/main/res/values/sdk_key.txt
+/TapiaSdkSample/gradle.properties
